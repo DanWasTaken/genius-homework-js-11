@@ -5,7 +5,7 @@
 
 ### Команди
 
-**_npm run start-server_** - команда для запуску webpack-dev-server
+**npm run start-server** - *команда для запуску webpack-dev-server*
 
 ### Встановлені для тесту бібліотеки
 
