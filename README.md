@@ -3,6 +3,10 @@
 
 Зробити збірку і додати до неї 2 бібліотеки на Ваш розсуд.
 
+### Команди
+
+npm run start-server - команда для запуску webpack-dev-server
+
 ### Встановлені для тесту бібліотеки
 
 https://www.npmjs.com/package/uuid
