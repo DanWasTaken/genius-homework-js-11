@@ -1,0 +1,21 @@
+{
+  "name": "js-genius-homework-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx webpack --mode development",
+    "start-server": "npx webpack-dev-server --mode development",
+    "build": "npx webpack --mode production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "webpack-dev-server": "^5.0.2"
+  }
+}
