@@ -1,3 +1,3 @@
-let userName = "USERNAME";
+let userName = "User";
 
 export {userName};
